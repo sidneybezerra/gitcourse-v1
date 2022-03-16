@@ -6,6 +6,11 @@ Os headers têm 6 níveis que são representados pela quantidade de símbolos es
 
 Editando para comitar a segunda vez !!:D
 
+
+1. Headers
+2. Itálicos
+3. Paragrafo com destaque 
+
 # h1
 
 
